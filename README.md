@@ -1,1 +1,1 @@
-TicTacToe 앱
+TicTacToe 앱 페이지
